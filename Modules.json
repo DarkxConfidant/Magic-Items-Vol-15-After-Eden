@@ -1,0 +1,31 @@
+{
+    "id": "after-eden",
+    "title": "Magic Items Vol 15: After Eden",
+    "version": "2.0.0",
+    "manifest": "",
+    "download": "",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "authors": [
+        {
+            "name": "Arcane Affinity",
+            "flags": {}
+        }
+    ],
+    "packs": [
+        {
+            "name": "after-eden-items",
+            "label": "Magic Items Vol 15: After Eden",
+            "path": "packs/after-eden-items",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "dnd5e",
+            "flags": {}
+        }
+    ]
+}
